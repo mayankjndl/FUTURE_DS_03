@@ -1,0 +1,1001 @@
+Event_Name,Event_Type,Department,Rating,Feedback_Comment,Would_Recommend
+AI Workshop,Workshop,Electronics,1,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Civil,2,Poor organisation,No
+AI Workshop,Workshop,Computer Science,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Civil,2,Needs better planning,No
+Tech Symposium,Seminar,Management,4,Well structured and engaging,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,3,Content was decent,No
+Cultural Fest,Cultural,Mechanical,4,Great learning experience,Yes
+Cultural Fest,Cultural,Computer Science,2,Too long and unengaging,No
+AI Workshop,Workshop,Mechanical,3,Content was decent,No
+Hackathon,Tech Fest,Civil,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Mechanical,5,Well structured and engaging,Yes
+Entrepreneurship Seminar,Seminar,Electronics,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Computer Science,5,Loved the speakers and content,Yes
+Music Night,Cultural,Electronics,3,Content was decent,No
+Robotics Workshop,Workshop,Computer Science,3,Content was decent,No
+Cultural Fest,Cultural,Electronics,4,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Electronics,3,Not bad overall,No
+Robotics Workshop,Workshop,Electronics,5,Very informative and well organised,Yes
+Tech Symposium,Seminar,Mechanical,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Mechanical,2,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Management,4,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Civil,3,Average experience,No
+Hackathon,Tech Fest,Civil,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Civil,3,Average experience,No
+Startup Bootcamp,Workshop,Computer Science,1,Poor organisation,No
+Cultural Fest,Cultural,Civil,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Management,3,Not bad overall,No
+Hackathon,Tech Fest,Computer Science,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Computer Science,4,Great learning experience,Yes
+Hackathon,Tech Fest,Computer Science,3,Good but needs improvement,No
+Hackathon,Tech Fest,Civil,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Civil,5,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Civil,2,Content was boring,No
+Tech Symposium,Seminar,Computer Science,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Electronics,5,Great learning experience,Yes
+Tech Symposium,Seminar,Computer Science,2,Needs better planning,No
+AI Workshop,Workshop,Civil,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Civil,2,Did not meet expectations,No
+Cultural Fest,Cultural,Management,3,Not bad overall,No
+Entrepreneurship Seminar,Seminar,Mechanical,5,Loved the speakers and content,Yes
+Music Night,Cultural,Management,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Computer Science,2,Content was boring,No
+Robotics Workshop,Workshop,Electronics,1,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Electronics,1,Poor organisation,No
+AI Workshop,Workshop,Computer Science,5,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Electronics,3,Good but needs improvement,No
+Cultural Fest,Cultural,Civil,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Management,2,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Mechanical,1,Did not meet expectations,No
+Music Night,Cultural,Computer Science,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Computer Science,3,Content was decent,No
+Entrepreneurship Seminar,Seminar,Management,2,Needs better planning,No
+Cultural Fest,Cultural,Management,3,Content was decent,No
+Entrepreneurship Seminar,Seminar,Management,5,Very informative and well organised,Yes
+AI Workshop,Workshop,Computer Science,1,Needs better planning,No
+AI Workshop,Workshop,Electronics,5,Loved the speakers and content,Yes
+Music Night,Cultural,Management,3,Average experience,No
+Tech Symposium,Seminar,Management,2,Poor organisation,No
+Hackathon,Tech Fest,Mechanical,5,"Amazing event, would attend again",Yes
+Music Night,Cultural,Management,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Computer Science,2,Content was boring,No
+Tech Symposium,Seminar,Computer Science,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Electronics,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Electronics,5,Very informative and well organised,Yes
+AI Workshop,Workshop,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Electronics,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Civil,4,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Mechanical,5,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,3,Average experience,No
+Startup Bootcamp,Workshop,Computer Science,3,"It was okay, could be better",No
+Startup Bootcamp,Workshop,Computer Science,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Mechanical,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Electronics,5,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Civil,3,Good but needs improvement,No
+Hackathon,Tech Fest,Computer Science,4,Well structured and engaging,Yes
+Hackathon,Tech Fest,Electronics,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Civil,2,Poor organisation,No
+Cultural Fest,Cultural,Electronics,3,Not bad overall,No
+Robotics Workshop,Workshop,Civil,2,Too long and unengaging,No
+Startup Bootcamp,Workshop,Computer Science,3,"It was okay, could be better",No
+Music Night,Cultural,Computer Science,5,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Electronics,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Civil,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Civil,2,Content was boring,No
+Tech Symposium,Seminar,Civil,5,Well structured and engaging,Yes
+Cultural Fest,Cultural,Mechanical,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Mechanical,5,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,4,Very informative and well organised,Yes
+Music Night,Cultural,Electronics,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Management,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Management,2,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Management,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Electronics,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Electronics,3,Average experience,No
+Tech Symposium,Seminar,Mechanical,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Mechanical,5,Great learning experience,Yes
+Music Night,Cultural,Mechanical,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Electronics,2,Too long and unengaging,No
+Hackathon,Tech Fest,Management,1,Needs better planning,No
+Robotics Workshop,Workshop,Management,4,Great learning experience,Yes
+AI Workshop,Workshop,Electronics,3,Not bad overall,No
+Hackathon,Tech Fest,Computer Science,1,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Mechanical,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Management,4,Great learning experience,Yes
+Hackathon,Tech Fest,Management,4,Loved the speakers and content,Yes
+Music Night,Cultural,Civil,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Mechanical,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Civil,2,Needs better planning,No
+Robotics Workshop,Workshop,Electronics,3,Good but needs improvement,No
+Startup Bootcamp,Workshop,Computer Science,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Mechanical,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Mechanical,5,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Civil,2,Did not meet expectations,No
+AI Workshop,Workshop,Electronics,3,Not bad overall,No
+Music Night,Cultural,Electronics,3,Average experience,No
+Tech Symposium,Seminar,Management,5,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Management,2,Needs better planning,No
+Tech Symposium,Seminar,Management,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Civil,5,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Civil,5,"Amazing event, would attend again",Yes
+Music Night,Cultural,Management,5,Well structured and engaging,Yes
+Cultural Fest,Cultural,Management,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Civil,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Management,4,Great learning experience,Yes
+AI Workshop,Workshop,Mechanical,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Computer Science,3,Not bad overall,No
+Cultural Fest,Cultural,Electronics,2,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Mechanical,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Management,3,Average experience,No
+Music Night,Cultural,Computer Science,5,Well structured and engaging,Yes
+Music Night,Cultural,Mechanical,3,Content was decent,No
+Music Night,Cultural,Civil,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Management,3,Content was decent,No
+Startup Bootcamp,Workshop,Management,1,Too long and unengaging,No
+Cultural Fest,Cultural,Civil,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Civil,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Electronics,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Management,2,Too long and unengaging,No
+Robotics Workshop,Workshop,Mechanical,2,Too long and unengaging,No
+Music Night,Cultural,Mechanical,3,Good but needs improvement,No
+AI Workshop,Workshop,Computer Science,3,Not bad overall,No
+Robotics Workshop,Workshop,Computer Science,2,Poor organisation,No
+Tech Symposium,Seminar,Computer Science,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Computer Science,2,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Mechanical,3,Content was decent,No
+Cultural Fest,Cultural,Electronics,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Mechanical,2,Poor organisation,No
+Music Night,Cultural,Computer Science,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Civil,2,Too long and unengaging,No
+AI Workshop,Workshop,Computer Science,4,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Computer Science,4,Great learning experience,Yes
+Robotics Workshop,Workshop,Management,1,Did not meet expectations,No
+AI Workshop,Workshop,Management,3,Content was decent,No
+Cultural Fest,Cultural,Mechanical,3,Not bad overall,No
+Startup Bootcamp,Workshop,Mechanical,3,Not bad overall,No
+Robotics Workshop,Workshop,Mechanical,5,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Civil,2,Did not meet expectations,No
+Music Night,Cultural,Mechanical,3,Good but needs improvement,No
+Cultural Fest,Cultural,Mechanical,3,Content was decent,No
+Robotics Workshop,Workshop,Mechanical,3,Not bad overall,No
+Tech Symposium,Seminar,Computer Science,4,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Civil,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Management,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Management,1,Content was boring,No
+Entrepreneurship Seminar,Seminar,Mechanical,3,Not bad overall,No
+Startup Bootcamp,Workshop,Management,4,Great learning experience,Yes
+Robotics Workshop,Workshop,Mechanical,3,Good but needs improvement,No
+Hackathon,Tech Fest,Electronics,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Electronics,2,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Mechanical,2,Did not meet expectations,No
+Hackathon,Tech Fest,Mechanical,5,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,3,Content was decent,No
+Cultural Fest,Cultural,Civil,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Mechanical,5,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Electronics,3,Content was decent,No
+Tech Symposium,Seminar,Computer Science,3,Good but needs improvement,No
+AI Workshop,Workshop,Civil,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Mechanical,2,Needs better planning,No
+AI Workshop,Workshop,Civil,5,Very informative and well organised,Yes
+Music Night,Cultural,Electronics,4,Well structured and engaging,Yes
+Music Night,Cultural,Mechanical,3,Good but needs improvement,No
+Music Night,Cultural,Computer Science,3,Not bad overall,No
+AI Workshop,Workshop,Electronics,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Electronics,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Music Night,Cultural,Management,3,Not bad overall,No
+Hackathon,Tech Fest,Mechanical,1,Too long and unengaging,No
+Startup Bootcamp,Workshop,Mechanical,1,Content was boring,No
+Entrepreneurship Seminar,Seminar,Electronics,3,Not bad overall,No
+Cultural Fest,Cultural,Computer Science,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Civil,2,Too long and unengaging,No
+Hackathon,Tech Fest,Mechanical,3,Good but needs improvement,No
+Music Night,Cultural,Civil,5,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Computer Science,3,Not bad overall,No
+Music Night,Cultural,Mechanical,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Civil,1,Needs better planning,No
+Tech Symposium,Seminar,Civil,5,Great learning experience,Yes
+Tech Symposium,Seminar,Management,4,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Civil,5,Loved the speakers and content,Yes
+Music Night,Cultural,Computer Science,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Mechanical,3,Content was decent,No
+AI Workshop,Workshop,Management,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Civil,3,Good but needs improvement,No
+Tech Symposium,Seminar,Mechanical,3,Content was decent,No
+Robotics Workshop,Workshop,Civil,2,Did not meet expectations,No
+Tech Symposium,Seminar,Management,4,Well structured and engaging,Yes
+Music Night,Cultural,Mechanical,1,Needs better planning,No
+Startup Bootcamp,Workshop,Electronics,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Management,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Electronics,2,Needs better planning,No
+Cultural Fest,Cultural,Civil,3,"It was okay, could be better",No
+Music Night,Cultural,Management,1,Poor organisation,No
+AI Workshop,Workshop,Management,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Management,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Management,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Civil,3,Not bad overall,No
+Cultural Fest,Cultural,Management,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Mechanical,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Civil,3,Content was decent,No
+Startup Bootcamp,Workshop,Civil,5,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Civil,3,Not bad overall,No
+Music Night,Cultural,Electronics,3,Content was decent,No
+Entrepreneurship Seminar,Seminar,Management,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Management,3,Good but needs improvement,No
+Music Night,Cultural,Management,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Mechanical,2,Needs better planning,No
+AI Workshop,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Management,1,Content was boring,No
+Cultural Fest,Cultural,Mechanical,1,Too long and unengaging,No
+Music Night,Cultural,Civil,4,Great learning experience,Yes
+Music Night,Cultural,Civil,5,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Mechanical,4,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Computer Science,3,Content was decent,No
+Tech Symposium,Seminar,Mechanical,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Electronics,3,Average experience,No
+Music Night,Cultural,Electronics,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Civil,1,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Electronics,3,Not bad overall,No
+Entrepreneurship Seminar,Seminar,Management,3,Content was decent,No
+Hackathon,Tech Fest,Mechanical,4,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Civil,1,Too long and unengaging,No
+Hackathon,Tech Fest,Mechanical,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Management,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Civil,2,Did not meet expectations,No
+Robotics Workshop,Workshop,Computer Science,4,Great learning experience,Yes
+Music Night,Cultural,Computer Science,3,Not bad overall,No
+Startup Bootcamp,Workshop,Electronics,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Civil,2,Content was boring,No
+Hackathon,Tech Fest,Computer Science,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Computer Science,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Electronics,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Civil,4,Great learning experience,Yes
+Hackathon,Tech Fest,Management,5,Great learning experience,Yes
+Hackathon,Tech Fest,Computer Science,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Electronics,5,Loved the speakers and content,Yes
+Music Night,Cultural,Mechanical,5,Well structured and engaging,Yes
+AI Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Civil,3,Content was decent,No
+Music Night,Cultural,Computer Science,5,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Civil,3,Not bad overall,No
+Robotics Workshop,Workshop,Computer Science,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Management,5,Great learning experience,Yes
+AI Workshop,Workshop,Mechanical,2,Poor organisation,No
+Startup Bootcamp,Workshop,Civil,2,Content was boring,No
+Cultural Fest,Cultural,Civil,3,Content was decent,No
+Music Night,Cultural,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Management,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Electronics,1,Too long and unengaging,No
+Startup Bootcamp,Workshop,Mechanical,3,Average experience,No
+AI Workshop,Workshop,Civil,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Electronics,1,Too long and unengaging,No
+AI Workshop,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Computer Science,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Electronics,4,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Electronics,1,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Mechanical,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Computer Science,4,Well structured and engaging,Yes
+Hackathon,Tech Fest,Electronics,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Computer Science,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Civil,1,Content was boring,No
+Robotics Workshop,Workshop,Computer Science,1,Too long and unengaging,No
+Cultural Fest,Cultural,Computer Science,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Civil,3,Content was decent,No
+AI Workshop,Workshop,Civil,3,Average experience,No
+Tech Symposium,Seminar,Mechanical,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Computer Science,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Computer Science,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Computer Science,3,Average experience,No
+Cultural Fest,Cultural,Civil,3,Not bad overall,No
+Robotics Workshop,Workshop,Civil,3,Not bad overall,No
+Hackathon,Tech Fest,Management,3,Not bad overall,No
+AI Workshop,Workshop,Civil,4,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Management,3,Average experience,No
+Robotics Workshop,Workshop,Management,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Mechanical,3,Content was decent,No
+Robotics Workshop,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Management,5,Very informative and well organised,Yes
+AI Workshop,Workshop,Electronics,4,Great learning experience,Yes
+Tech Symposium,Seminar,Civil,4,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Mechanical,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Mechanical,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Civil,3,Not bad overall,No
+Entrepreneurship Seminar,Seminar,Electronics,2,Did not meet expectations,No
+AI Workshop,Workshop,Mechanical,3,Not bad overall,No
+AI Workshop,Workshop,Electronics,4,Well structured and engaging,Yes
+Music Night,Cultural,Civil,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Computer Science,4,Great learning experience,Yes
+Cultural Fest,Cultural,Mechanical,3,Content was decent,No
+Robotics Workshop,Workshop,Civil,1,Content was boring,No
+Music Night,Cultural,Computer Science,1,Poor organisation,No
+Entrepreneurship Seminar,Seminar,Mechanical,3,Good but needs improvement,No
+Cultural Fest,Cultural,Civil,3,Content was decent,No
+AI Workshop,Workshop,Electronics,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Management,4,Great learning experience,Yes
+Music Night,Cultural,Management,3,Good but needs improvement,No
+Hackathon,Tech Fest,Computer Science,2,Needs better planning,No
+Robotics Workshop,Workshop,Civil,3,Content was decent,No
+Startup Bootcamp,Workshop,Computer Science,4,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,3,Not bad overall,No
+Tech Symposium,Seminar,Electronics,2,Content was boring,No
+Hackathon,Tech Fest,Computer Science,3,"It was okay, could be better",No
+Startup Bootcamp,Workshop,Electronics,4,Loved the speakers and content,Yes
+Music Night,Cultural,Civil,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Management,1,Poor organisation,No
+Tech Symposium,Seminar,Mechanical,3,"It was okay, could be better",No
+Music Night,Cultural,Mechanical,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Electronics,3,Content was decent,No
+Startup Bootcamp,Workshop,Computer Science,5,Great learning experience,Yes
+Music Night,Cultural,Management,5,Loved the speakers and content,Yes
+Music Night,Cultural,Mechanical,4,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Computer Science,2,Content was boring,No
+AI Workshop,Workshop,Mechanical,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Electronics,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Electronics,2,Content was boring,No
+Cultural Fest,Cultural,Electronics,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Civil,3,Not bad overall,No
+Startup Bootcamp,Workshop,Civil,4,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Electronics,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Mechanical,1,Did not meet expectations,No
+Hackathon,Tech Fest,Civil,4,Great learning experience,Yes
+AI Workshop,Workshop,Computer Science,3,Good but needs improvement,No
+Tech Symposium,Seminar,Computer Science,3,Content was decent,No
+AI Workshop,Workshop,Management,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Management,4,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Civil,3,Good but needs improvement,No
+Cultural Fest,Cultural,Computer Science,5,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Civil,5,Very informative and well organised,Yes
+Cultural Fest,Cultural,Management,1,Did not meet expectations,No
+Cultural Fest,Cultural,Management,3,Content was decent,No
+Music Night,Cultural,Computer Science,4,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Civil,1,Poor organisation,No
+Music Night,Cultural,Electronics,3,Not bad overall,No
+Robotics Workshop,Workshop,Mechanical,1,Content was boring,No
+Hackathon,Tech Fest,Electronics,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Mechanical,3,Good but needs improvement,No
+Cultural Fest,Cultural,Computer Science,4,Well structured and engaging,Yes
+Music Night,Cultural,Mechanical,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Mechanical,2,Content was boring,No
+Startup Bootcamp,Workshop,Electronics,2,Content was boring,No
+AI Workshop,Workshop,Civil,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Electronics,4,Well structured and engaging,Yes
+Music Night,Cultural,Civil,2,Content was boring,No
+Cultural Fest,Cultural,Management,4,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Management,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Electronics,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Electronics,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Management,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Civil,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Civil,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Management,5,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Civil,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Mechanical,3,Average experience,No
+Startup Bootcamp,Workshop,Management,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Management,5,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Music Night,Cultural,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Mechanical,3,"It was okay, could be better",No
+AI Workshop,Workshop,Electronics,5,Great learning experience,Yes
+Cultural Fest,Cultural,Electronics,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Computer Science,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Civil,3,Average experience,No
+Music Night,Cultural,Electronics,2,Too long and unengaging,No
+Hackathon,Tech Fest,Management,2,Content was boring,No
+Startup Bootcamp,Workshop,Civil,1,Did not meet expectations,No
+Tech Symposium,Seminar,Electronics,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Civil,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Electronics,2,Did not meet expectations,No
+AI Workshop,Workshop,Computer Science,4,Great learning experience,Yes
+Tech Symposium,Seminar,Computer Science,3,Good but needs improvement,No
+Music Night,Cultural,Computer Science,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Electronics,4,Great learning experience,Yes
+AI Workshop,Workshop,Electronics,4,Great learning experience,Yes
+Tech Symposium,Seminar,Electronics,3,Content was decent,No
+Startup Bootcamp,Workshop,Electronics,5,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Computer Science,1,Did not meet expectations,No
+Hackathon,Tech Fest,Computer Science,2,Content was boring,No
+Robotics Workshop,Workshop,Management,5,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Mechanical,3,Average experience,No
+Robotics Workshop,Workshop,Mechanical,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Management,2,Too long and unengaging,No
+Music Night,Cultural,Mechanical,4,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Mechanical,3,Good but needs improvement,No
+Hackathon,Tech Fest,Computer Science,5,"Amazing event, would attend again",Yes
+Music Night,Cultural,Civil,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Mechanical,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Management,3,Not bad overall,No
+Cultural Fest,Cultural,Management,4,Great learning experience,Yes
+Tech Symposium,Seminar,Civil,4,Great learning experience,Yes
+Music Night,Cultural,Computer Science,3,"It was okay, could be better",No
+Music Night,Cultural,Computer Science,3,Average experience,No
+Cultural Fest,Cultural,Computer Science,5,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Mechanical,1,Too long and unengaging,No
+Music Night,Cultural,Civil,5,Very informative and well organised,Yes
+Cultural Fest,Cultural,Mechanical,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Electronics,4,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Electronics,3,Content was decent,No
+AI Workshop,Workshop,Management,1,Content was boring,No
+Music Night,Cultural,Mechanical,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Civil,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Electronics,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Management,2,Poor organisation,No
+Cultural Fest,Cultural,Computer Science,5,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Civil,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Electronics,5,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Electronics,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Computer Science,2,Did not meet expectations,No
+Robotics Workshop,Workshop,Management,4,Great learning experience,Yes
+Cultural Fest,Cultural,Computer Science,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Civil,3,Good but needs improvement,No
+Music Night,Cultural,Computer Science,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Management,5,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Electronics,4,Great learning experience,Yes
+Cultural Fest,Cultural,Management,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Electronics,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Electronics,2,Too long and unengaging,No
+Robotics Workshop,Workshop,Mechanical,5,Well structured and engaging,Yes
+AI Workshop,Workshop,Mechanical,3,Not bad overall,No
+Cultural Fest,Cultural,Civil,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Civil,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Civil,2,Needs better planning,No
+Robotics Workshop,Workshop,Computer Science,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Mechanical,1,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Civil,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Mechanical,3,Not bad overall,No
+Hackathon,Tech Fest,Mechanical,3,Good but needs improvement,No
+Startup Bootcamp,Workshop,Electronics,1,Poor organisation,No
+Startup Bootcamp,Workshop,Electronics,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Mechanical,4,Great learning experience,Yes
+Robotics Workshop,Workshop,Mechanical,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Computer Science,3,Good but needs improvement,No
+Hackathon,Tech Fest,Computer Science,3,Average experience,No
+Tech Symposium,Seminar,Civil,3,Good but needs improvement,No
+Music Night,Cultural,Mechanical,2,Content was boring,No
+Robotics Workshop,Workshop,Management,2,Content was boring,No
+Startup Bootcamp,Workshop,Management,3,Content was decent,No
+Tech Symposium,Seminar,Civil,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Civil,5,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Management,1,Too long and unengaging,No
+Startup Bootcamp,Workshop,Computer Science,3,"It was okay, could be better",No
+Music Night,Cultural,Mechanical,2,Too long and unengaging,No
+Music Night,Cultural,Computer Science,3,Good but needs improvement,No
+Entrepreneurship Seminar,Seminar,Computer Science,3,Content was decent,No
+Music Night,Cultural,Mechanical,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Management,2,Poor organisation,No
+Robotics Workshop,Workshop,Civil,4,Great learning experience,Yes
+Robotics Workshop,Workshop,Civil,4,Loved the speakers and content,Yes
+Music Night,Cultural,Computer Science,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Civil,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Electronics,2,Needs better planning,No
+Robotics Workshop,Workshop,Electronics,5,Great learning experience,Yes
+Music Night,Cultural,Civil,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Civil,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Management,4,Great learning experience,Yes
+Tech Symposium,Seminar,Management,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Civil,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Civil,3,Not bad overall,No
+Entrepreneurship Seminar,Seminar,Management,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Management,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Computer Science,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Mechanical,2,Did not meet expectations,No
+Music Night,Cultural,Management,2,Content was boring,No
+Startup Bootcamp,Workshop,Electronics,5,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Civil,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Management,3,Average experience,No
+Robotics Workshop,Workshop,Civil,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Mechanical,2,Content was boring,No
+Hackathon,Tech Fest,Mechanical,2,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Mechanical,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Mechanical,3,Content was decent,No
+AI Workshop,Workshop,Management,4,Well structured and engaging,Yes
+Music Night,Cultural,Mechanical,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Mechanical,3,"It was okay, could be better",No
+Startup Bootcamp,Workshop,Electronics,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Civil,5,Great learning experience,Yes
+Hackathon,Tech Fest,Civil,2,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Electronics,2,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Mechanical,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Computer Science,2,Content was boring,No
+Cultural Fest,Cultural,Management,3,Good but needs improvement,No
+Entrepreneurship Seminar,Seminar,Mechanical,4,Great learning experience,Yes
+Hackathon,Tech Fest,Civil,4,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Electronics,4,Very informative and well organised,Yes
+Music Night,Cultural,Computer Science,5,Loved the speakers and content,Yes
+Music Night,Cultural,Mechanical,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Civil,1,Needs better planning,No
+AI Workshop,Workshop,Mechanical,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Civil,5,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Civil,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Mechanical,3,"It was okay, could be better",No
+Cultural Fest,Cultural,Electronics,4,Great learning experience,Yes
+Tech Symposium,Seminar,Civil,4,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Management,2,Did not meet expectations,No
+Robotics Workshop,Workshop,Electronics,1,Poor organisation,No
+Cultural Fest,Cultural,Computer Science,3,Average experience,No
+Hackathon,Tech Fest,Mechanical,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Computer Science,3,Not bad overall,No
+Hackathon,Tech Fest,Computer Science,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Management,3,Average experience,No
+Hackathon,Tech Fest,Mechanical,4,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Management,2,Content was boring,No
+Cultural Fest,Cultural,Mechanical,3,Not bad overall,No
+Music Night,Cultural,Civil,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Computer Science,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Computer Science,4,Great learning experience,Yes
+AI Workshop,Workshop,Civil,1,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Electronics,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Computer Science,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Electronics,5,"Amazing event, would attend again",Yes
+Music Night,Cultural,Civil,3,"It was okay, could be better",No
+Startup Bootcamp,Workshop,Computer Science,4,Great learning experience,Yes
+Music Night,Cultural,Electronics,3,"It was okay, could be better",No
+AI Workshop,Workshop,Computer Science,1,Too long and unengaging,No
+Tech Symposium,Seminar,Management,5,Very informative and well organised,Yes
+Tech Symposium,Seminar,Electronics,3,Average experience,No
+Music Night,Cultural,Management,3,Good but needs improvement,No
+Music Night,Cultural,Electronics,3,Not bad overall,No
+Robotics Workshop,Workshop,Management,2,Needs better planning,No
+Cultural Fest,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Civil,5,"Amazing event, would attend again",Yes
+Music Night,Cultural,Electronics,4,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Electronics,3,Content was decent,No
+AI Workshop,Workshop,Civil,1,Did not meet expectations,No
+Tech Symposium,Seminar,Computer Science,2,Poor organisation,No
+Tech Symposium,Seminar,Electronics,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Civil,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Electronics,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Mechanical,2,Needs better planning,No
+Robotics Workshop,Workshop,Civil,2,Content was boring,No
+Entrepreneurship Seminar,Seminar,Computer Science,3,Content was decent,No
+Cultural Fest,Cultural,Civil,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Management,1,Too long and unengaging,No
+Robotics Workshop,Workshop,Electronics,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Management,3,Not bad overall,No
+Entrepreneurship Seminar,Seminar,Electronics,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Management,5,Well structured and engaging,Yes
+Music Night,Cultural,Management,4,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,3,Content was decent,No
+Startup Bootcamp,Workshop,Civil,5,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Civil,1,Did not meet expectations,No
+Tech Symposium,Seminar,Civil,5,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,3,Content was decent,No
+Tech Symposium,Seminar,Computer Science,2,Content was boring,No
+Startup Bootcamp,Workshop,Electronics,5,Well structured and engaging,Yes
+Music Night,Cultural,Mechanical,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Mechanical,3,Not bad overall,No
+Hackathon,Tech Fest,Management,3,Not bad overall,No
+Startup Bootcamp,Workshop,Mechanical,1,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Computer Science,3,Good but needs improvement,No
+Entrepreneurship Seminar,Seminar,Mechanical,4,Very informative and well organised,Yes
+Music Night,Cultural,Mechanical,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Management,3,Average experience,No
+Robotics Workshop,Workshop,Management,3,Good but needs improvement,No
+Startup Bootcamp,Workshop,Electronics,2,Too long and unengaging,No
+Cultural Fest,Cultural,Electronics,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Computer Science,4,Very informative and well organised,Yes
+Tech Symposium,Seminar,Computer Science,3,Average experience,No
+Cultural Fest,Cultural,Management,1,Needs better planning,No
+Robotics Workshop,Workshop,Management,1,Needs better planning,No
+Startup Bootcamp,Workshop,Civil,1,Needs better planning,No
+Music Night,Cultural,Mechanical,1,Needs better planning,No
+Hackathon,Tech Fest,Electronics,1,Did not meet expectations,No
+AI Workshop,Workshop,Electronics,5,Well structured and engaging,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,2,Needs better planning,No
+Robotics Workshop,Workshop,Computer Science,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Civil,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Mechanical,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Computer Science,4,Very informative and well organised,Yes
+Music Night,Cultural,Management,3,Not bad overall,No
+Tech Symposium,Seminar,Computer Science,4,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Civil,5,Great learning experience,Yes
+AI Workshop,Workshop,Electronics,5,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Management,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Mechanical,1,Poor organisation,No
+Tech Symposium,Seminar,Computer Science,2,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Computer Science,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Civil,2,Content was boring,No
+Music Night,Cultural,Mechanical,4,Well structured and engaging,Yes
+Music Night,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Electronics,1,Did not meet expectations,No
+AI Workshop,Workshop,Civil,3,Not bad overall,No
+Music Night,Cultural,Computer Science,5,Great learning experience,Yes
+Hackathon,Tech Fest,Management,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Management,3,Good but needs improvement,No
+Cultural Fest,Cultural,Computer Science,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Computer Science,4,Very informative and well organised,Yes
+Hackathon,Tech Fest,Management,2,Content was boring,No
+Robotics Workshop,Workshop,Computer Science,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Computer Science,3,Content was decent,No
+Cultural Fest,Cultural,Management,1,Did not meet expectations,No
+Music Night,Cultural,Mechanical,2,Poor organisation,No
+AI Workshop,Workshop,Management,4,Great learning experience,Yes
+Tech Symposium,Seminar,Computer Science,3,Good but needs improvement,No
+Entrepreneurship Seminar,Seminar,Management,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Mechanical,2,Too long and unengaging,No
+Startup Bootcamp,Workshop,Management,2,Content was boring,No
+Hackathon,Tech Fest,Computer Science,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Management,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Mechanical,3,Average experience,No
+Tech Symposium,Seminar,Civil,5,Great learning experience,Yes
+Music Night,Cultural,Management,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Electronics,3,Not bad overall,No
+Hackathon,Tech Fest,Management,3,Average experience,No
+Robotics Workshop,Workshop,Mechanical,2,Did not meet expectations,No
+Hackathon,Tech Fest,Civil,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Management,3,Content was decent,No
+Robotics Workshop,Workshop,Electronics,2,Needs better planning,No
+Cultural Fest,Cultural,Computer Science,4,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Management,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Management,5,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Electronics,2,Too long and unengaging,No
+Hackathon,Tech Fest,Management,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Management,3,Not bad overall,No
+Music Night,Cultural,Civil,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Civil,4,Great learning experience,Yes
+AI Workshop,Workshop,Mechanical,2,Content was boring,No
+Cultural Fest,Cultural,Civil,4,Very informative and well organised,Yes
+Music Night,Cultural,Management,5,Great learning experience,Yes
+AI Workshop,Workshop,Electronics,1,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Management,3,Good but needs improvement,No
+Cultural Fest,Cultural,Management,3,"It was okay, could be better",No
+AI Workshop,Workshop,Computer Science,3,"It was okay, could be better",No
+Cultural Fest,Cultural,Management,3,Content was decent,No
+Entrepreneurship Seminar,Seminar,Management,4,Great learning experience,Yes
+AI Workshop,Workshop,Mechanical,3,Good but needs improvement,No
+AI Workshop,Workshop,Computer Science,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Electronics,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Civil,4,Great learning experience,Yes
+Music Night,Cultural,Management,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Management,2,Did not meet expectations,No
+Tech Symposium,Seminar,Management,4,Loved the speakers and content,Yes
+Music Night,Cultural,Electronics,3,Average experience,No
+Hackathon,Tech Fest,Civil,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Electronics,4,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Computer Science,3,Good but needs improvement,No
+Hackathon,Tech Fest,Civil,4,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Management,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Civil,3,Good but needs improvement,No
+Cultural Fest,Cultural,Civil,5,Great learning experience,Yes
+AI Workshop,Workshop,Computer Science,4,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,3,Average experience,No
+Cultural Fest,Cultural,Civil,4,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Electronics,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Civil,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Electronics,3,Average experience,No
+Robotics Workshop,Workshop,Computer Science,5,Well structured and engaging,Yes
+Robotics Workshop,Workshop,Electronics,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Civil,5,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Management,3,Good but needs improvement,No
+Startup Bootcamp,Workshop,Civil,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Mechanical,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Mechanical,3,Not bad overall,No
+Cultural Fest,Cultural,Management,4,Well structured and engaging,Yes
+AI Workshop,Workshop,Civil,4,Great learning experience,Yes
+Robotics Workshop,Workshop,Management,4,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Electronics,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Management,5,Very informative and well organised,Yes
+Hackathon,Tech Fest,Management,3,"It was okay, could be better",No
+AI Workshop,Workshop,Electronics,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Management,5,Well structured and engaging,Yes
+Cultural Fest,Cultural,Electronics,4,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Mechanical,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Mechanical,3,Content was decent,No
+Hackathon,Tech Fest,Computer Science,5,Well structured and engaging,Yes
+Cultural Fest,Cultural,Computer Science,5,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Electronics,5,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Electronics,2,Too long and unengaging,No
+Music Night,Cultural,Mechanical,3,Not bad overall,No
+Music Night,Cultural,Computer Science,3,"It was okay, could be better",No
+Music Night,Cultural,Mechanical,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Civil,5,Great learning experience,Yes
+Tech Symposium,Seminar,Management,5,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Management,5,Well structured and engaging,Yes
+Entrepreneurship Seminar,Seminar,Management,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Mechanical,3,Content was decent,No
+Cultural Fest,Cultural,Mechanical,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Computer Science,1,Did not meet expectations,No
+AI Workshop,Workshop,Management,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Electronics,1,Did not meet expectations,No
+Cultural Fest,Cultural,Electronics,5,Great learning experience,Yes
+Hackathon,Tech Fest,Mechanical,1,Too long and unengaging,No
+AI Workshop,Workshop,Computer Science,3,Average experience,No
+Music Night,Cultural,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Electronics,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Electronics,1,Needs better planning,No
+Startup Bootcamp,Workshop,Computer Science,1,Too long and unengaging,No
+Music Night,Cultural,Computer Science,4,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Computer Science,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Electronics,3,Content was decent,No
+Music Night,Cultural,Electronics,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Civil,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Electronics,3,Average experience,No
+Music Night,Cultural,Electronics,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Computer Science,5,Loved the speakers and content,Yes
+Music Night,Cultural,Mechanical,3,Good but needs improvement,No
+Cultural Fest,Cultural,Electronics,2,Poor organisation,No
+Hackathon,Tech Fest,Mechanical,4,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Electronics,4,Well structured and engaging,Yes
+Music Night,Cultural,Electronics,3,"It was okay, could be better",No
+Startup Bootcamp,Workshop,Management,3,Average experience,No
+AI Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Management,2,Needs better planning,No
+Robotics Workshop,Workshop,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Computer Science,1,Poor organisation,No
+Hackathon,Tech Fest,Management,2,Poor organisation,No
+Hackathon,Tech Fest,Management,4,Well structured and engaging,Yes
+Music Night,Cultural,Civil,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Computer Science,3,Content was decent,No
+Entrepreneurship Seminar,Seminar,Civil,5,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Mechanical,3,"It was okay, could be better",No
+Music Night,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Entrepreneurship Seminar,Seminar,Computer Science,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Mechanical,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Computer Science,2,Content was boring,No
+Cultural Fest,Cultural,Civil,3,Content was decent,No
+Hackathon,Tech Fest,Mechanical,2,Content was boring,No
+AI Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+Music Night,Cultural,Mechanical,3,"It was okay, could be better",No
+AI Workshop,Workshop,Mechanical,3,Not bad overall,No
+Tech Symposium,Seminar,Electronics,3,Not bad overall,No
+Robotics Workshop,Workshop,Civil,2,Poor organisation,No
+AI Workshop,Workshop,Computer Science,2,Needs better planning,No
+Tech Symposium,Seminar,Electronics,5,Very informative and well organised,Yes
+Tech Symposium,Seminar,Electronics,3,Good but needs improvement,No
+Cultural Fest,Cultural,Civil,5,Very informative and well organised,Yes
+Music Night,Cultural,Management,2,Content was boring,No
+Robotics Workshop,Workshop,Civil,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Electronics,2,Poor organisation,No
+Entrepreneurship Seminar,Seminar,Management,5,Very informative and well organised,Yes
+AI Workshop,Workshop,Mechanical,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Computer Science,1,Did not meet expectations,No
+Robotics Workshop,Workshop,Mechanical,2,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Management,3,Not bad overall,No
+Entrepreneurship Seminar,Seminar,Electronics,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Computer Science,1,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Mechanical,4,Very informative and well organised,Yes
+Tech Symposium,Seminar,Mechanical,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Management,2,Content was boring,No
+Startup Bootcamp,Workshop,Mechanical,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Civil,1,Content was boring,No
+Music Night,Cultural,Management,4,Great learning experience,Yes
+AI Workshop,Workshop,Electronics,4,Well structured and engaging,Yes
+Music Night,Cultural,Computer Science,1,Needs better planning,No
+Music Night,Cultural,Electronics,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Management,3,Content was decent,No
+Robotics Workshop,Workshop,Electronics,3,Content was decent,No
+AI Workshop,Workshop,Civil,5,Loved the speakers and content,Yes
+AI Workshop,Workshop,Management,2,Content was boring,No
+Startup Bootcamp,Workshop,Civil,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Management,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Computer Science,3,"It was okay, could be better",No
+Cultural Fest,Cultural,Civil,5,Great learning experience,Yes
+Tech Symposium,Seminar,Electronics,2,Too long and unengaging,No
+AI Workshop,Workshop,Management,4,Great learning experience,Yes
+Tech Symposium,Seminar,Electronics,4,Great learning experience,Yes
+Tech Symposium,Seminar,Civil,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Electronics,1,Poor organisation,No
+AI Workshop,Workshop,Electronics,1,Content was boring,No
+Entrepreneurship Seminar,Seminar,Computer Science,5,Great learning experience,Yes
+Hackathon,Tech Fest,Computer Science,5,Very informative and well organised,Yes
+AI Workshop,Workshop,Electronics,2,Did not meet expectations,No
+AI Workshop,Workshop,Computer Science,5,Great learning experience,Yes
+Tech Symposium,Seminar,Electronics,5,Very informative and well organised,Yes
+Music Night,Cultural,Management,5,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Electronics,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Mechanical,2,Content was boring,No
+Hackathon,Tech Fest,Computer Science,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Management,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Management,1,Too long and unengaging,No
+Cultural Fest,Cultural,Electronics,3,Not bad overall,No
+Tech Symposium,Seminar,Management,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Civil,3,Not bad overall,No
+Robotics Workshop,Workshop,Computer Science,3,Average experience,No
+Robotics Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+Tech Symposium,Seminar,Civil,5,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Electronics,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Mechanical,2,Content was boring,No
+Tech Symposium,Seminar,Civil,4,Loved the speakers and content,Yes
+Music Night,Cultural,Electronics,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Civil,4,Great learning experience,Yes
+Tech Symposium,Seminar,Civil,4,Great learning experience,Yes
+Cultural Fest,Cultural,Management,4,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Computer Science,2,Poor organisation,No
+Tech Symposium,Seminar,Computer Science,2,Content was boring,No
+Startup Bootcamp,Workshop,Electronics,1,Needs better planning,No
+Cultural Fest,Cultural,Mechanical,3,Average experience,No
+Tech Symposium,Seminar,Electronics,1,Needs better planning,No
+AI Workshop,Workshop,Computer Science,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Civil,4,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Electronics,3,Content was decent,No
+Cultural Fest,Cultural,Management,4,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Civil,2,Needs better planning,No
+Robotics Workshop,Workshop,Electronics,2,Needs better planning,No
+Music Night,Cultural,Electronics,3,Content was decent,No
+Cultural Fest,Cultural,Management,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Civil,2,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Management,4,Very informative and well organised,Yes
+Cultural Fest,Cultural,Electronics,3,"It was okay, could be better",No
+Robotics Workshop,Workshop,Computer Science,5,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Electronics,3,Content was decent,No
+Entrepreneurship Seminar,Seminar,Mechanical,4,Great learning experience,Yes
+AI Workshop,Workshop,Management,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Management,4,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Civil,5,Great learning experience,Yes
+Music Night,Cultural,Civil,2,Did not meet expectations,No
+Entrepreneurship Seminar,Seminar,Computer Science,2,Poor organisation,No
+Hackathon,Tech Fest,Computer Science,1,Too long and unengaging,No
+AI Workshop,Workshop,Electronics,3,Good but needs improvement,No
+AI Workshop,Workshop,Mechanical,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Electronics,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Mechanical,2,Poor organisation,No
+Entrepreneurship Seminar,Seminar,Civil,5,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Electronics,4,Great learning experience,Yes
+AI Workshop,Workshop,Civil,1,Needs better planning,No
+Startup Bootcamp,Workshop,Computer Science,2,Too long and unengaging,No
+Music Night,Cultural,Management,1,Needs better planning,No
+Entrepreneurship Seminar,Seminar,Electronics,1,Content was boring,No
+Hackathon,Tech Fest,Computer Science,5,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Management,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Management,1,Needs better planning,No
+Cultural Fest,Cultural,Mechanical,3,Good but needs improvement,No
+Cultural Fest,Cultural,Management,3,Content was decent,No
+Startup Bootcamp,Workshop,Civil,3,Content was decent,No
+Tech Symposium,Seminar,Computer Science,2,Poor organisation,No
+Robotics Workshop,Workshop,Civil,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Civil,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Civil,5,"Amazing event, would attend again",Yes
+Entrepreneurship Seminar,Seminar,Management,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Civil,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Electronics,2,Did not meet expectations,No
+Cultural Fest,Cultural,Electronics,5,Loved the speakers and content,Yes
+Tech Symposium,Seminar,Electronics,3,Good but needs improvement,No
+Cultural Fest,Cultural,Mechanical,5,Great learning experience,Yes
+AI Workshop,Workshop,Management,1,Needs better planning,No
+Robotics Workshop,Workshop,Management,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Civil,4,Well structured and engaging,Yes
+Music Night,Cultural,Electronics,2,Content was boring,No
+AI Workshop,Workshop,Computer Science,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Management,5,Great learning experience,Yes
+Hackathon,Tech Fest,Civil,3,Good but needs improvement,No
+Startup Bootcamp,Workshop,Management,1,Too long and unengaging,No
+Cultural Fest,Cultural,Computer Science,4,"Amazing event, would attend again",Yes
+Music Night,Cultural,Electronics,5,Great learning experience,Yes
+Tech Symposium,Seminar,Mechanical,4,Great learning experience,Yes
+Tech Symposium,Seminar,Mechanical,3,Content was decent,No
+Hackathon,Tech Fest,Electronics,5,Very informative and well organised,Yes
+Cultural Fest,Cultural,Mechanical,3,Good but needs improvement,No
+Hackathon,Tech Fest,Computer Science,4,Well structured and engaging,Yes
+Entrepreneurship Seminar,Seminar,Management,3,Good but needs improvement,No
+Robotics Workshop,Workshop,Electronics,5,Well structured and engaging,Yes
+AI Workshop,Workshop,Management,3,Not bad overall,No
+Cultural Fest,Cultural,Civil,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Computer Science,2,Content was boring,No
+Entrepreneurship Seminar,Seminar,Mechanical,1,Poor organisation,No
+Entrepreneurship Seminar,Seminar,Civil,3,Good but needs improvement,No
+Music Night,Cultural,Computer Science,4,Very informative and well organised,Yes
+Entrepreneurship Seminar,Seminar,Management,3,Not bad overall,No
+Cultural Fest,Cultural,Civil,5,"Amazing event, would attend again",Yes
+Robotics Workshop,Workshop,Computer Science,3,Content was decent,No
+Hackathon,Tech Fest,Electronics,1,Poor organisation,No
+Entrepreneurship Seminar,Seminar,Electronics,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Computer Science,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Electronics,3,Average experience,No
+Tech Symposium,Seminar,Mechanical,2,Needs better planning,No
+Hackathon,Tech Fest,Mechanical,3,Good but needs improvement,No
+Startup Bootcamp,Workshop,Mechanical,3,Good but needs improvement,No
+Music Night,Cultural,Civil,4,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Civil,4,Well structured and engaging,Yes
+Hackathon,Tech Fest,Management,3,"It was okay, could be better",No
+AI Workshop,Workshop,Mechanical,3,Content was decent,No
+Hackathon,Tech Fest,Electronics,3,Content was decent,No
+Cultural Fest,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Music Night,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Management,5,Great learning experience,Yes
+Music Night,Cultural,Civil,3,"It was okay, could be better",No
+Entrepreneurship Seminar,Seminar,Civil,3,Average experience,No
+Startup Bootcamp,Workshop,Civil,5,Great learning experience,Yes
+Hackathon,Tech Fest,Electronics,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Mechanical,1,Content was boring,No
+Cultural Fest,Cultural,Computer Science,5,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Management,3,Content was decent,No
+Robotics Workshop,Workshop,Mechanical,3,Not bad overall,No
+Startup Bootcamp,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Civil,3,Average experience,No
+AI Workshop,Workshop,Civil,5,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Electronics,3,Average experience,No
+Entrepreneurship Seminar,Seminar,Management,3,Not bad overall,No
+Cultural Fest,Cultural,Computer Science,3,Average experience,No
+Startup Bootcamp,Workshop,Mechanical,3,Average experience,No
+Tech Symposium,Seminar,Electronics,1,Too long and unengaging,No
+Cultural Fest,Cultural,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Management,2,Did not meet expectations,No
+Music Night,Cultural,Management,3,Good but needs improvement,No
+Tech Symposium,Seminar,Mechanical,1,Content was boring,No
+Tech Symposium,Seminar,Electronics,5,Well structured and engaging,Yes
+Tech Symposium,Seminar,Electronics,4,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Management,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Mechanical,2,Poor organisation,No
+Hackathon,Tech Fest,Civil,3,Not bad overall,No
+Robotics Workshop,Workshop,Mechanical,3,Average experience,No
+Startup Bootcamp,Workshop,Electronics,3,Average experience,No
+Music Night,Cultural,Electronics,1,Content was boring,No
+Entrepreneurship Seminar,Seminar,Civil,4,Well structured and engaging,Yes
+Cultural Fest,Cultural,Management,2,Poor organisation,No
+Hackathon,Tech Fest,Computer Science,4,Well structured and engaging,Yes
+Tech Symposium,Seminar,Computer Science,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Computer Science,3,Good but needs improvement,No
+Hackathon,Tech Fest,Electronics,3,Average experience,No
+Tech Symposium,Seminar,Civil,3,"It was okay, could be better",No
+Hackathon,Tech Fest,Management,4,Loved the speakers and content,Yes
+AI Workshop,Workshop,Computer Science,4,Well structured and engaging,Yes
+Hackathon,Tech Fest,Management,2,Poor organisation,No
+Entrepreneurship Seminar,Seminar,Civil,4,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,3,Good but needs improvement,No
+Cultural Fest,Cultural,Electronics,1,Did not meet expectations,No
+Startup Bootcamp,Workshop,Computer Science,3,"It was okay, could be better",No
+AI Workshop,Workshop,Management,5,Well structured and engaging,Yes
+Cultural Fest,Cultural,Computer Science,5,Well structured and engaging,Yes
+AI Workshop,Workshop,Management,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Computer Science,3,"It was okay, could be better",No
+Cultural Fest,Cultural,Mechanical,5,Great learning experience,Yes
+Robotics Workshop,Workshop,Computer Science,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Electronics,1,Content was boring,No
+Robotics Workshop,Workshop,Civil,3,Good but needs improvement,No
+Hackathon,Tech Fest,Mechanical,5,Very informative and well organised,Yes
+Robotics Workshop,Workshop,Management,2,Did not meet expectations,No
+Startup Bootcamp,Workshop,Management,3,Good but needs improvement,No
+Music Night,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Electronics,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Management,3,Not bad overall,No
+Startup Bootcamp,Workshop,Mechanical,2,Did not meet expectations,No
+Tech Symposium,Seminar,Management,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Management,2,Did not meet expectations,No
+Tech Symposium,Seminar,Computer Science,1,Too long and unengaging,No
+Entrepreneurship Seminar,Seminar,Civil,5,Great learning experience,Yes
+AI Workshop,Workshop,Management,3,Average experience,No
+Robotics Workshop,Workshop,Electronics,4,"Amazing event, would attend again",Yes
+Tech Symposium,Seminar,Civil,1,Content was boring,No
+Startup Bootcamp,Workshop,Computer Science,5,Loved the speakers and content,Yes
+Startup Bootcamp,Workshop,Mechanical,3,Content was decent,No
+Tech Symposium,Seminar,Management,4,Well structured and engaging,Yes
+Music Night,Cultural,Management,5,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Computer Science,5,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Management,3,"It was okay, could be better",No
+Tech Symposium,Seminar,Computer Science,2,Did not meet expectations,No
+Tech Symposium,Seminar,Civil,5,Well structured and engaging,Yes
+Hackathon,Tech Fest,Electronics,5,Well structured and engaging,Yes
+Startup Bootcamp,Workshop,Computer Science,5,Great learning experience,Yes
+Entrepreneurship Seminar,Seminar,Civil,5,Great learning experience,Yes
+Startup Bootcamp,Workshop,Management,4,Great learning experience,Yes
+AI Workshop,Workshop,Computer Science,1,Content was boring,No
+Robotics Workshop,Workshop,Civil,3,Content was decent,No
+Robotics Workshop,Workshop,Electronics,4,Very informative and well organised,Yes
+Startup Bootcamp,Workshop,Computer Science,2,Did not meet expectations,No
+Hackathon,Tech Fest,Computer Science,4,Loved the speakers and content,Yes
+Music Night,Cultural,Mechanical,2,Content was boring,No
+AI Workshop,Workshop,Civil,4,Very informative and well organised,Yes
+AI Workshop,Workshop,Management,4,"Amazing event, would attend again",Yes
+Cultural Fest,Cultural,Civil,5,Very informative and well organised,Yes
+Tech Symposium,Seminar,Civil,4,"Amazing event, would attend again",Yes
+Startup Bootcamp,Workshop,Civil,5,Loved the speakers and content,Yes
+Cultural Fest,Cultural,Computer Science,4,Loved the speakers and content,Yes
+Music Night,Cultural,Mechanical,4,Well structured and engaging,Yes
+Music Night,Cultural,Electronics,3,Not bad overall,No
+Hackathon,Tech Fest,Mechanical,3,Content was decent,No
+Startup Bootcamp,Workshop,Management,5,Loved the speakers and content,Yes
+Hackathon,Tech Fest,Mechanical,5,Well structured and engaging,Yes
+Entrepreneurship Seminar,Seminar,Mechanical,2,Needs better planning,No
+Robotics Workshop,Workshop,Electronics,5,Loved the speakers and content,Yes
+Robotics Workshop,Workshop,Civil,4,Great learning experience,Yes
+Startup Bootcamp,Workshop,Civil,4,"Amazing event, would attend again",Yes
+Hackathon,Tech Fest,Computer Science,5,"Amazing event, would attend again",Yes
+AI Workshop,Workshop,Computer Science,1,Content was boring,No
